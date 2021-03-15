@@ -1,1 +1,1 @@
-# epam-trainig-git
+# Epam-trainig-git
